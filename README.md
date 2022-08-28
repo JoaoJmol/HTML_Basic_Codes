@@ -1,6 +1,6 @@
 # HTML Basic Codes :bookmark_tabs:
 
-## :br: 
+## 🇧🇷
 Olá, pessoal! 
 Neste repositório estão contidos alguns códigos feitos para aprender e para praticar sobre
 um curso básico de HTML que realizei a um ano atrás. Espero que gostem e estou à disposição para 
